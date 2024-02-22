@@ -1,0 +1,29 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# pytest cache and temporary files
+.pytest_cache/
+pytestdebug.log
+
+# Coverage files
+.coverage
+htmlcov/
+
+# Logs and other generated files
+*.log
+*.csv
+*.json
+*.xml
+*.html
+
+# IDE-specific directories
+.vscode/
+.idea/
+
+# Environment-specific files
+.env
